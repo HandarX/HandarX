@@ -138,12 +138,25 @@ A mobile horde survival game featuring:
 ## 🌎 Connect With Me
 
 <p align="left">
-<a href="https://instagram.com/hamed.alzoubi"><img src="https://img.shields.io/badge/Instagram-8BFF3E?style=for-the-badge&logo=instagram&logoColor=black" /></a>
-<a href="https://www.rtmix.ae/"><img src="https://img.shields.io/badge/Company-8BFF3E?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
-<a href="https://the-handar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8BFF3E?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://instagram.com/hamed.alzoubi">
+<img src="https://img.shields.io/badge/Instagram-8BFF3E?style=for-the-badge&logo=instagram&logoColor=black" />
+</a>
+
+<a href="https://www.rtmix.ae/">
+<img src="https://img.shields.io/badge/Company-8BFF3E?style=for-the-badge&logo=google-chrome&logoColor=black" />
+</a>
+
+<a href="https://the-handar.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-8BFF3E?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL">
+<img src="https://img.shields.io/badge/YouTube-8BFF3E?style=for-the-badge&logo=youtube&logoColor=black" />
+</a>
 </p>
 
 - 📷 Instagram: https://instagram.com/hamed.alzoubi
+- 🎥 YouTube: https://youtube.com/@YOUR_CHANNEL
 - 💼 Portfolio: https://the-handar.vercel.app
 - 🏢 Company: https://www.rtmix.ae/
 
