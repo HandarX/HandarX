@@ -48,10 +48,16 @@ Building modern web applications, AI-powered tools, mobile apps, and games with 
 
 ### 🤖 AI & Automation
 <p>
-<img src="https://skillicons.dev/icons?i=Claude,OpenAI,n8n,Hermes,Higgsfield,Magnific,Cursor&theme=dark" />
+<img src="https://cdn-icons-png.flaticon.com/128/12222/12222588.png" height="48" alt="OpenAI" />&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/18069/18069868.png" height="48" alt="Claude" />&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/8637/8637099.png" height="48" alt="Automation" />&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/11865/11865326.png" height="48" alt="AI Agent" />&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/9068/9068840.png" height="48" alt="AI Image" />&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/8618/8618881.png" height="48" alt="Prompt" />&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/128/6295/6295417.png" height="48" alt="Cursor AI" />
 </p>
 
-`OpenAI API` · `Claude API` · `n8n` · `Hermes Agent` · `Higgsfield AI` · `Magnific AI` · `Prompt Engineering` · `Workflow Automation` . `Cursor AI`
+`OpenAI API` · `Claude API` · `n8n` · `Hermes Agent` · `Higgsfield AI` · `Magnific AI` · `Prompt Engineering` · `Workflow Automation` · `Cursor AI`
 
 ### 🎮 Game Development
 <p>
@@ -62,10 +68,10 @@ Building modern web applications, AI-powered tools, mobile apps, and games with 
 
 ### 🎨 Design & Creative
 <p>
-<img src="https://skillicons.dev/icons?i=figma,blender,ps,ae,premiere&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,blender,ps,ae,premiere,ai&theme=dark" />
 </p>
 
-`Blender` · `Photoshop` · `After Effects` · `Premiere Pro` · `Figma` · `Motion Graphics` · `Video Editing` · `3D Design` . `Illustrator`
+`Blender` · `Photoshop` · `After Effects` · `Premiere Pro` · `Illustrator` · `Figma` · `Motion Graphics` · `Video Editing` · `3D Design`
 
 ---
 
@@ -136,7 +142,7 @@ A mobile horde survival game featuring:
 <p align="left">
 <a href="https://instagram.com/hamed.alzoubi"><img src="https://img.shields.io/badge/Instagram-8BFF3E?style=for-the-badge&logo=instagram&logoColor=black" /></a>
 <a href="https://www.rtmix.ae/"><img src="https://img.shields.io/badge/Company-8BFF3E?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-8BFF3E?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://the-handar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8BFF3E?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
 
 - 📷 Instagram: https://instagram.com/hamed.alzoubi
