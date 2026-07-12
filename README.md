@@ -47,7 +47,11 @@ Building modern web applications, AI-powered tools, mobile apps, and games with 
 `Node.js` · `MongoDB` · `Firebase` · `Supabase` · `Redis` · `Microsoft Azure` · `Vercel` · `REST APIs`
 
 ### 🤖 AI & Automation
-`OpenAI API` · `Claude API` · `n8n` · `Hermes Agent` · `Higgsfield AI` · `Magnific AI` · `Prompt Engineering` · `Workflow Automation`
+<p>
+<img src="https://skillicons.dev/icons?i=unity,unreal,cs&theme=dark" />
+</p>
+
+`OpenAI` · `Claude` · `n8n` · `Hermes Agent` · `Higgsfield` · `Magnific` · `Prompt Engineering` · `Workflow Automation`
 
 ### 🎮 Game Development
 <p>
@@ -61,7 +65,7 @@ Building modern web applications, AI-powered tools, mobile apps, and games with 
 <img src="https://skillicons.dev/icons?i=figma,blender,ps,ae,premiere&theme=dark" />
 </p>
 
-`Blender` · `Photoshop` · `After Effects` · `Premiere Pro` · `Figma` · `Motion Graphics` · `Video Editing` · `3D Design`
+`Blender` · `Photoshop` · `After Effects` · `Premiere Pro` · `Figma` · `Motion Graphics` · `Video Editing` · `3D Design` . `Illustrator`
 
 ---
 
@@ -136,7 +140,7 @@ A mobile horde survival game featuring:
 </p>
 
 - 📷 Instagram: https://instagram.com/hamed.alzoubi
-- 💼 Portfolio: https://your-portfolio.com
+- 💼 Portfolio: https://the-handar.vercel.app
 - 🏢 Company: https://www.rtmix.ae/
 
 ---
