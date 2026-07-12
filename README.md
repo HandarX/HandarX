@@ -156,7 +156,7 @@ A mobile horde survival game featuring:
 </p>
 
 - 📷 Instagram: https://instagram.com/hamed.alzoubi
-- 🎥 YouTube: https://youtube.com/@YOUR_CHANNEL
+- 🎥 YouTube: https://youtube.com/@TheHandar_x
 - 💼 Portfolio: https://the-handar.vercel.app
 - 🏢 Company: https://www.rtmix.ae/
 
