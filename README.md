@@ -49,9 +49,7 @@ Building modern web applications, AI-powered tools, mobile apps, and games with 
 ### 🤖 AI & Automation
 <p>
 <img src="https://cdn-icons-png.flaticon.com/128/12222/12222588.png" height="48" alt="OpenAI" />&nbsp;&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/18069/18069868.png" height="48" alt="Claude" />&nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/8637/8637099.png" height="48" alt="Automation" />&nbsp;&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/11865/11865326.png" height="48" alt="AI Agent" />&nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/9068/9068840.png" height="48" alt="AI Image" />&nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/8618/8618881.png" height="48" alt="Prompt" />&nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/128/6295/6295417.png" height="48" alt="Cursor AI" />
