@@ -48,10 +48,10 @@ Building modern web applications, AI-powered tools, mobile apps, and games with 
 
 ### 🤖 AI & Automation
 <p>
-<img src="https://skillicons.dev/icons?i=unity,unreal,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=Claude,OpenAI,n8n,Hermes,Higgsfield,Magnific,Cursor&theme=dark" />
 </p>
 
-`OpenAI` · `Claude` · `n8n` · `Hermes Agent` · `Higgsfield` · `Magnific` · `Prompt Engineering` · `Workflow Automation`
+`OpenAI API` · `Claude API` · `n8n` · `Hermes Agent` · `Higgsfield AI` · `Magnific AI` · `Prompt Engineering` · `Workflow Automation` . `Cursor AI`
 
 ### 🎮 Game Development
 <p>
