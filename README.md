@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hey, I'm Hamed Alzoubi Also
-Also Named As Handar
+# 👋 Hey, I'm Hamed Alzoubi
+Also Known As Handar
 
 ### 🚀 Web Developer • App Developer • Game Developer • 3D Designer • Graphic Designer • AI Developer
 
@@ -17,6 +17,7 @@ Building modern web applications, AI-powered tools, mobile apps, and games with 
 
 - 🎂 16 years old
 - 💻 5+ years of programming experience
+- 💼 Working at [Rtmix](https://www.rtmix.ae/) building digital solutions and creative technology projects
 - 🎮 Currently building **Z CROWD**, a mobile horde survival game
 - 🤖 Building AI tools, workflows, and automations
 - 🎨 Passionate about creating polished products from idea to release
@@ -58,8 +59,8 @@ Building modern web applications, AI-powered tools, mobile apps, and games with 
 
 ## 🤖 AI & Automation
 
-- Claude API
 - OpenAI API
+- Claude API
 - n8n
 - Higgsfield AI
 - Magnific AI
@@ -96,11 +97,27 @@ Building modern web applications, AI-powered tools, mobile apps, and games with 
 
 ---
 
+# 💼 Professional Experience
+
+## 🚀 Rtmix
+
+Working on digital solutions, software development, and creative technology projects.
+
+🌐 https://www.rtmix.ae/
+
+---
+
 # 🚀 Featured Project
 
 ## 🎮 Z CROWD
 
-A mobile horde survival game featuring dynamic waves, boss battles, progression systems, and optimized gameplay.
+A mobile horde survival game featuring:
+
+- Dynamic enemy waves
+- Boss battles
+- Weapon systems
+- Perks and progression
+- Optimized mobile gameplay
 
 🚧 Currently in development.
 
@@ -108,6 +125,7 @@ A mobile horde survival game featuring dynamic waves, boss battles, progression 
 
 # 📈 Experience
 
+- 💼 Software & Creative Technology Development at Rtmix
 - 💻 Full-Stack Web Development
 - 📱 Mobile App Development
 - 🎮 Unity & Unreal Engine Development
@@ -152,6 +170,7 @@ A mobile horde survival game featuring dynamic waves, boss battles, progression 
 
 - 📷 Instagram: https://instagram.com/hamed.alzoubi
 - 💼 Portfolio: https://your-portfolio.com
+- 🏢 Company: https://www.rtmix.ae/
 
 ---
 
