@@ -1,12 +1,13 @@
 <div align="center">
 
-# 👋 Hey, I'm Hamed Alzoubi
+# 👋 Hey, I'm Hamed Alzoubi Also
+Also Named As Handar
 
-### 🚀 Web Developer • App Developer • Game Developer • 3D Designer • Graphic Designer • Video Editor
+### 🚀 Web Developer • App Developer • Game Developer • 3D Designer • Graphic Designer • AI Developer
 
-Building modern web applications, mobile apps, and games with clean design and great user experiences.
+Building modern web applications, AI-powered tools, mobile apps, and games with a focus on performance, clean design, and great user experiences.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8BFF3E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Unity+Game+Developer;UI%2FUX+Designer;3D+Designer+with+Blender;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8BFF3E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Unity+%26+Unreal+Developer;AI+Automation+Builder;3D+Designer+with+Blender;Always+Building+Something+New" />
 
 </div>
 
@@ -16,10 +17,10 @@ Building modern web applications, mobile apps, and games with clean design and g
 
 - 🎂 16 years old
 - 💻 5+ years of programming experience
-- 🎮 Currently building **Z CROWD**, a mobile horde survival game in Unity
-- 🚀 Passionate about building products from idea to release
-- 🎨 Love creating beautiful interfaces and smooth animations
-- 📚 Always learning new technologies
+- 🎮 Currently building **Z CROWD**, a mobile horde survival game
+- 🤖 Building AI tools, workflows, and automations
+- 🎨 Passionate about creating polished products from idea to release
+- 📚 Always learning and exploring new technologies
 
 ---
 
@@ -28,37 +29,53 @@ Building modern web applications, mobile apps, and games with clean design and g
 ## 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,flutter" />
 </p>
 
 - React
 - Next.js
 - TypeScript
 - Tailwind CSS
+- Flutter
 - Motion
 
 ---
 
-## ⚙ Backend
+## ⚙️ Backend & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,supabase,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,supabase,redis" />
 </p>
 
 - Node.js
 - MongoDB
+- Firebase
 - Supabase
 - Redis
+- REST APIs
+
+---
+
+## 🤖 AI & Automation
+
+- Claude API
+- OpenAI API
+- n8n
+- Higgsfield AI
+- Magnific AI
+- AI Workflow Automation
+- Prompt Engineering
 
 ---
 
 ## 🎮 Game Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=unity,cs" />
+<img src="https://skillicons.dev/icons?i=unity,unreal,cs" />
 </p>
 
 - Unity
+- Unreal Engine
 - C#
 
 ---
@@ -75,6 +92,7 @@ Building modern web applications, mobile apps, and games with clean design and g
 - Figma
 - Motion Graphics
 - Video Editing
+- 3D Design
 
 ---
 
@@ -82,18 +100,7 @@ Building modern web applications, mobile apps, and games with clean design and g
 
 ## 🎮 Z CROWD
 
-A fast-paced mobile horde survival game built with Unity.
-
-### Features
-
-- Endless enemy waves
-- Boss battles
-- Perk system
-- Weapon upgrades
-- Mobile optimized
-- Smooth gameplay
-- Custom UI
-- High performance
+A mobile horde survival game featuring dynamic waves, boss battles, progression systems, and optimized gameplay.
 
 🚧 Currently in development.
 
@@ -101,21 +108,14 @@ A fast-paced mobile horde survival game built with Unity.
 
 # 📈 Experience
 
-✅ Full-Stack Web Development
-
-✅ Mobile App Development
-
-✅ Unity Game Development
-
-✅ UI/UX Design
-
-✅ Motion Graphics
-
-✅ Graphic Design
-
-✅ Video Editing
-
-✅ 3D Modeling
+- 💻 Full-Stack Web Development
+- 📱 Mobile App Development
+- 🎮 Unity & Unreal Engine Development
+- 🤖 AI Applications & Automation
+- 🎨 UI/UX Design
+- 🧊 3D Design & Modeling
+- 🎬 Video Editing & Motion Graphics
+- ☁️ Backend Development & Cloud Services
 
 ---
 
@@ -124,29 +124,26 @@ A fast-paced mobile horde survival game built with Unity.
 - VS Code
 - Visual Studio
 - Unity
+- Unreal Engine
 - Blender
 - Figma
 - Photoshop
 - After Effects
 - Git
 - GitHub
+- Postman
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=HandarX&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HandarX&theme=github-dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HandarX&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 ---
@@ -154,14 +151,14 @@ A fast-paced mobile horde survival game built with Unity.
 # 🌎 Connect With Me
 
 - 📷 Instagram: https://instagram.com/hamed.alzoubi
-- 💼 Portfolio: *(Add your website here)*
+- 💼 Portfolio: https://your-portfolio.com
 
 ---
 
 <div align="center">
 
-## 🚀 Always Building. Always Learning.
+## 🚀 Building the future with code, AI, design, and games.
 
-*"Great software isn't just functional—it's memorable."*
+*"Create. Learn. Ship. Repeat."*
 
 </div>
