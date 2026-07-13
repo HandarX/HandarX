@@ -111,7 +111,7 @@ A mobile horde survival game featuring:
 ## 🧰 Some Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,unreal,blender,figma,ps,ae,premiere,git,github,postman,cursor&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,cursor&theme=dark" />
 </p>
 
 `VS Code` · `Visual Studio` · `Git` · `GitHub` · `Postman` · `Cursor AI`
