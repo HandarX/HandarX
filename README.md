@@ -129,7 +129,7 @@ A mobile horde survival game featuring:
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HandarX&bg_color=0d1117&color=8BFF3E&line=8BFF3E&point=ffffff&area_color=8BFF3E&area=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=HandarX&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1" />
 
 </div>
 
